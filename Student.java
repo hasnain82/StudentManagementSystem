@@ -27,10 +27,3 @@ public class Student{
         return new Student(Integer.parseInt(parts[0]),parts[1],parts[2]);
     }
 }
-
-// public class StudentInfo{
-//     public static void main(String[] args){
-//         Student s1 = new Student(11, "Hasnain", "Computer");
-//         System.out.println(s1);
-//     }
-// }
